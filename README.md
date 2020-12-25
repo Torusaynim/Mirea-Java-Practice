@@ -12,4 +12,4 @@
 | 9 | :white_check_mark: | src/ru/mirea/lab9 |
 | 10 | :white_check_mark: | src/ru/mirea/lab10 |
 | 12 | :white_check_mark: | src/ru/mirea/lab12 |
-| 16 | :black_square_button: | В процессе |
+| 16 | :white_check_mark: | src/ru/mirea/lab16 |
